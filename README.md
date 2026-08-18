@@ -21,7 +21,6 @@
 <a href="https://www.codechef.com/users/shikhasharma25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shikhasharma25" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shikhasharma0250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shikhasharma0250" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shikhasharma0250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shikhasharma0250" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@shikhasharma0250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shikhasharma0250" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shikhasharma250&show_icons=true&locale=en" alt="shikhasharma250" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shikhasharma250&" alt="shikhasharma250" /></p>
-
