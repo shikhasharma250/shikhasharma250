@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shikha Sharma</h1>
 
 <h3 align="center">
-BCA Student • Aspiring Data Scientist • Data Analytics & Machine Learning Enthusiast
+BCA Student | Aspiring Data Scientist | Data Analytics • Machine Learning • Python • SQL
 </h3>
 
 <p align="center">
   <a href="https://github.com/shikhasharma250">
-    <img src="https://komarev.com/ghpvc/?username=shikhasharma250&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=shikhasharma250&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views"/>
   </a>
 </p>
 
@@ -24,18 +24,21 @@ BCA Student • Aspiring Data Scientist • Data Analytics & Machine Learning En
 
 ## 👩‍💻 About Me
 
-I'm a **BCA student** passionate about Data Analytics, Python, and Data Science. I enjoy working with data, building practical projects, and continuously strengthening my technical skills.
+I'm a **BCA student from Indore, India**, passionate about transforming data into meaningful insights through analytics and machine learning.
 
-* 🔭 Working on **Data Analytics & Python Projects**
-* 📊 Exploring **Data Analysis & Visualization**
-* 💻 Practicing **Python & SQL**
-* 🤖 Interested in **Machine Learning & Data Science**
-* 🚀 Building projects to develop practical, real-world skills
-* ⚡ Fun fact: **An introvert with a passion for learning and building**
+Currently, I'm focused on building a strong foundation in **Python, SQL, Data Analytics, and Machine Learning** through hands-on projects, coding practice, and continuous learning.
+
+- 🌱 Currently learning **NumPy, Pandas, Matplotlib, Seaborn & Power BI**
+- 💻 Practicing **Python & SQL** through coding platforms
+- 📊 Building practical **Data Analytics projects**
+- 🤖 Exploring **Machine Learning & AI**
+- 🚀 Interested in solving real-world problems using data
+- 🎯 Goal: Become an industry-ready **Data Scientist**
+- ⚡ Fun fact: **An introvert with a passion for learning and building**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming & Database
 
@@ -89,6 +92,49 @@ I'm a **BCA student** passionate about Data Analytics, Python, and Data Science.
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+
+</p>
+
+---
+
+# 🧰 Tools & Platforms
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+
+</p>
+
+---
+
+# 🚀 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Advanced%20Basics-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Learning-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Learning-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-Exploring-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Next-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shikhasharma250&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+
 </p>
 
 ---
@@ -105,39 +151,74 @@ I'm a **BCA student** passionate about Data Analytics, Python, and Data Science.
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=shikhasharma250&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=shikhasharma250&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" alt="GitHub Contribution Streak"/>
 
 </p>
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhasharma250&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhasharma250&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
 
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 📚 Data Science Journey
 
-> 🚀 Data Analytics and Data Science projects coming soon.
+| Skill | Progress |
+|-------|----------|
+| Python | 🟩🟩🟩🟩⬜ |
+| SQL | 🟩🟩🟩⬜⬜ |
+| NumPy | 🟩🟩🟩⬜⬜ |
+| Pandas | 🟩🟩🟩⬜⬜ |
+| Matplotlib | 🟩🟩⬜⬜⬜ |
+| Seaborn | 🟩🟩⬜⬜⬜ |
+| Power BI | 🟩⬜⬜⬜⬜ |
+| Machine Learning | ⬜⬜⬜⬜⬜ |
 
 ---
 
-## 🌐 Connect With Me
+# 📌 Featured Projects
+
+### 💰 Expense Tracker
+
+A Python-based expense tracking application designed to manage daily expenses, categorize spending, and calculate overall expenditure.
+
+**Tech:** Python
+
+---
+
+### 🏧 ATM Management System
+
+A console-based ATM simulation implementing PIN authentication, balance inquiry, withdrawal, deposit, and transaction handling.
+
+**Tech:** Python
+
+---
+
+### 📰 Fake News Generator
+
+A Python-based text generation project created to practice Python programming concepts and string manipulation.
+
+**Tech:** Python
+
+---
+
+> 🚀 More Data Analytics & Machine Learning projects coming soon!
+
+---
+
+# 💻 Coding Profiles
 
 <p align="left">
-
-<a href="https://linkedin.com/in/shikha-sharma-0b7b54328" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
 
 <a href="https://leetcode.com/shikhasharma0250/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
@@ -153,12 +234,28 @@ I'm a **BCA student** passionate about Data Analytics, Python, and Data Science.
 
 </p>
 
-📫 **Email:** [shikhasharma0250@gmail.com](mailto:shikhasharma0250@gmail.com)
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/shikha-sharma-0b7b54328" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:shikhasharma0250@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
+
+📫 **Email:** shikhasharma0250@gmail.com
 
 ---
 
 <p align="center">
-  <i>Learning • Building • Analyzing • Growing 🚀</i>
+  <i>"Turning curiosity into skills, and skills into impactful projects."</i>
 </p>
 
 <p align="center">
