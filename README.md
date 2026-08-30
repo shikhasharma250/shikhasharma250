@@ -116,8 +116,6 @@ I'm a **BCA student** passionate about Data Analytics, Python, and Data Science.
 
 ## 📈 Contribution Activity
 
-## 📈 Contribution Activity
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shikhasharma250&bg_color=000000&color=FFFFFF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
 </p>
